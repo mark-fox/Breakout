@@ -1,0 +1,28 @@
+
+
+learned about this interface thing from:
+        http://zetcode.com/tutorials/javagamestutorial/breakout/
+
+directory path help:
+        http://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java
+
+connection help:
+http://www.sqlitetutorial.net/sqlite-java/create-database/
+
+sql Date format help:
+http://stackoverflow.com/questions/18257648/get-the-current-date-in-java-sql-date-format
+
+ Learned a lot about game structures from the tutorial linked below. This app's structure was adapted
+ from the lessons learned.
+https://www.youtube.com/watch?v=lf9awz6j88Q&list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ&index=2
+
+ Timer help:
+http://stackoverflow.com/questions/14454063/how-to-make-a-timer
+
+ Collision detection help:
+http://stackoverflow.com/questions/19408458/brickbreaker-clone-ball-brick-collision-and-ball-behavior-on-brick-collision
+
+
+ http://stackoverflow.com/questions/21997130/how-to-use-keylistener-with-jframe
+ http://stackoverflow.com/questions/9347076/how-to-remove-all-components-from-a-jframe-in-java
+ http://stackoverflow.com/questions/13935934/java-jtable-column-headers-not-showing
